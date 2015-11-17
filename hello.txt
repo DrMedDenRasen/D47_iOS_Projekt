@@ -1,2 +1,2 @@
-Hello guys :)
+﻿Hallo Leute :)
 Macht euch bitte selbstständig mit git vertraut und ladet euch den Desktop-Client runter und richtet euch den ein!
